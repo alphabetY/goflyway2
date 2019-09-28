@@ -19,7 +19,7 @@ import (
 	"github.com/alphabetY/goflyway2/cmd/goflyway/lib"
 	"github.com/alphabetY/goflyway2/pkg/aclrouter"
 	"github.com/alphabetY/goflyway2/proxy"
-	"golang.org/x/crypto/acme/autocert"
+	"github.com/alphabetY/crypto/acme/autocert"
 
 	"flag"
 	"fmt"
